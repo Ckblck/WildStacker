@@ -1,4 +1,7 @@
 # NOTE: This plugin is a <ins>modified version</ins> of the original WildStacker plugin.
+# Date of modification: 31/05/2023
+## Files modified:
+- `Hooks/MythicMobs5/build.gradle`
 <p align="center">
 <img src="https://bg-software.com/imgs/wildstacker-logo.png" />
 <h2 align="center">The first ever multi-threaded stacking solution!</h2>
