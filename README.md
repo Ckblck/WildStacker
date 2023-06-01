@@ -1,3 +1,4 @@
+# NOTE: This plugin is a <ins>modified version</ins> of the original WildStacker plugin.
 <p align="center">
 <img src="https://bg-software.com/imgs/wildstacker-logo.png" />
 <h2 align="center">The first ever multi-threaded stacking solution!</h2>
